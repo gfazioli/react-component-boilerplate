@@ -1,6 +1,6 @@
 # React Component Boilerplate
 
-A minimal boilerplate useful to create a React Component [React](http://facebook.github.io/react/index.html)
+A minimal boilerplate useful to create a React Component [React](http://facebook.github.io/react/index.html) base on [Laravel Mix](https://github.com/JeffreyWay/laravel-mix)
 
 # Usage
 
