@@ -1,2 +1,7 @@
 {
+    "/example/dist/app.js": "/example/dist/app.js",
+    "/dist/mycomponent.js": "/dist/mycomponent.js",
+    "/dist/mycomponent.css": "/dist/mycomponent.css",
+    "/example/dist/app.css": "/example/dist/app.css",
+    "/example/dist/index.html": "/example/dist/index.html"
 }
