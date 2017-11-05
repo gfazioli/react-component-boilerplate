@@ -4,7 +4,7 @@ A minimal boilerplate useful to create a React Component [React](http://facebook
 
 # Usage
 
-Onnce clone the repo
+Once you have clone the repo
 
 * remove the `.git` folder
 * rename `mycompnent` filename
